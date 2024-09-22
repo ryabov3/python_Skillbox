@@ -1,2 +1,1 @@
-# python_Skillbox
-DZ po Backend
+Рябов Михаил Сергеевич, РИ-230916
